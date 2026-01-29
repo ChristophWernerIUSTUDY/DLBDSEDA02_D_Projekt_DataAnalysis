@@ -34,15 +34,15 @@ Die Umsetzung erfolgt in Python unter Einsatz folgender Bibliotheken:
 
 ---
 
-## Installation & Ausführung
+Installation & Ausführung
 
-### 1. Repository klonen
+1. Repository klonen
 Öffne dein Terminal und lade das Projekt mit folgendem Befehl herunter:
-```bash
-git clone [https://github.com/ChristophWernerIUSTUDY/DLBDSEDA02_D_Projekt_DataAnalysis.git](https://github.com/ChristophWernerIUSTUDY/DLBDSEDA02_D_Projekt_DataAnalysis.git)
+
+git clone [https://github.com/ChristophWernerIUSTUDY/DLBDSEDA02_D_Projekt_DataAnalysis.git]
 cd DLBDSEDA02_D_Projekt_DataAnalysis
 
-### 2. Abhängigkeiten installieren
+2. Abhängigkeiten installieren
 `pip install -r requirements.txt`.
 
-### 3. Das Jupyter Notebook öffnen mit 'jupyter notebook' und die Zellen nacheinander ausführen.
+3. Das Jupyter Notebook öffnen mit 'jupyter notebook' und die Zellen nacheinander ausführen.
