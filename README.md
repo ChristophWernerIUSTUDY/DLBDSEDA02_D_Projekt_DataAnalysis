@@ -1,6 +1,6 @@
 # NLP-basierte Analyse unstrukturierter Beschwerdedaten
 
-Dieses Projekt entwickelt einen automatisierten NLP-Workflow (Natural Language Processing), um aus einer großen Anzahl unstrukturierter Texte die zentralen Anliegen von Bürgern zu extrahieren. Als repräsentative Datenquelle dient die „Consumer Complaint Database“ (CFPB), die als Transfer-Modell für kommunale Beschwerdesysteme fungiert.
+Dieses Projekt entwickelt einen automatisierten NLP-Workflow (Natural Language Processing), um aus einer großen Anzahl unstrukturierter Texte die zentralen Anliegen von Bürgern zu extrahieren. Als repräsentative Datenquelle dient die „Consumer Complaint Database“ (CFPB https://www.kaggle.com/datasets/selener/consumer-complaint-database), die als Transfer-Modell für kommunale Beschwerdesysteme fungiert.
 
 ## Kernfeatures & Methodik
 
