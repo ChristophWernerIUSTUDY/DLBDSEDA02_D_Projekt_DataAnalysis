@@ -22,10 +22,10 @@ Die Anzahl der zu extrahierenden Themen wurde nicht subjektiv gewählt, sondern 
 
 ## Verwendete Technologien
 Die Umsetzung erfolgt in Python unter Einsatz folgender Bibliotheken:
-* **pandas**: Daten management und Strukturierung.
-* **re & nltk**: Linguistische Vorverarbeitung und Mustererkennung.
-* **scikit-learn**: Vektorisierung und mathematische Themenmodellierung.
-* **matplotlib**: Visualisierung der Evaluationsmetriken.
+* **pandas**: Aufbereiten der Daten.
+* **re & nltk**: Textvorverarbeitung (z. B. Bereinigung, Tokenisierung)
+* **scikit-learn**: Umwandlung von Text in Vektoren und Themenmodellierung.
+* **matplotlib**: Visualisierung der Ergebnisse.
 
 ## Projektstruktur
 * `NLP-Analyse_KundenBeschwerden.ipynb`: Haupt-Notebook mit dem vollständigen Workflow.
