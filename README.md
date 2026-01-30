@@ -16,7 +16,7 @@ Es werden zwei Ansätze zur Texttransformation und Themenextraktion verglichen:
 * **Themenmodellierung:** Gegenüberstellung von **Latent Dirichlet Allocation (LDA)** und **Non-negative Matrix Factorization (NMF)**.
 
 ### 3. Bestimmung der optimalen Themenanzahl (K)
-Die Anzahl der zu extrahierenden Themen wurde nicht subjektiv gewählt, sondern mathematisch hergeleitet. Mittels einer Perplexity-Evaluation wurde ein Score-Verlauf für verschiedene Werte von K erstellt. Das mathematische Optimum (Minimum der Perplexity) wurde bei **K = 7** identifiziert und für die finale Modellierung verwendet.
+Die Anzahl der zu extrahierenden Themen wurde nicht subjektiv gewählt, sondern mathematisch hergeleitet. Mittels einer Perplexity-Evaluation wurde ein Score-Verlauf für verschiedene Werte von K erstellt. Das mathematische Optimum (Minimum der Perplexity) wurde bei **K = 10** identifiziert und für die finale Modellierung verwendet.
 
 ---
 
